@@ -1,0 +1,1 @@
+{"name":"garansi-desk","version":"1.0.0","private":true,"scripts":{"start":"node scripts/serve.cjs","build":"node scripts/build.cjs","test":"playwright test"},"devDependencies":{"@playwright/test":"1.56.1"}}
